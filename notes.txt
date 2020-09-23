@@ -1,0 +1,3 @@
+ideas for me:
+
+should the navbar say "login" or "create account" should it show login or create an account first
